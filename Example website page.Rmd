@@ -1,0 +1,47 @@
+---
+title: "Example website page"
+author: "Mary Blendermann"
+date: "2026-04-16"
+output: html_document
+---
+
+I create this webpage as a single RMarkdown file. I didn't write any code to do it - I used the visual editing mode in RStudio, which lets you see changes immediately (also known as WYSIWYG, pronounced "wizzy-wig," in the coding world, which stands for What You See Is What You Get).
+
+For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+Some examples of things we could put on a page like this:
+
+# Descriptions of projects we are currently doing
+
+(And maybe recruitment info if there are any we are actively recruiting for?)
+
+# Links to publications
+
+Here are some from my CV:
+
+DeGennaro, P. L., **Blendermann, M.**, Alberts, B., Silk, J. S., Gianaros, P. J., & Hallion, L. S. (2025). A temporal investigation of the relationship between difficulty concentrating and perseverative thought. *Journal of Anxiety Disorders, 111*. [https://doi.org/10.1016/j.janxdis.2025.102987](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.janxdis.2025.102987&data=05%7C02%7Cblendermann%40pitt.edu%7C3310515177f6438a95cf08dd4d226fbd%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C638751532479898946%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=002yAOA1k3KdIHkxSlwzjHNYycPlTLcOiun8qLI9yO4%3D&reserved=0 "Original URL:
+https://doi.org/10.1016/j.janxdis.2025.102987
+
+Click to follow link.")
+
+**Blendermann, M.,** Breaux, R., Naragon-Gainey, K., Starr, L., Stewart, J., Teachman, B., Fried, E.I., COVID-19 Mental Health Workgroup, & Hallion, L.S. (2025). Anxiety, worry, and difficulty concentrating: Examining concurrent and prospective symptom relationships in the context of the COVID-19 pandemic. *Behavior Therapy, 56(4).* <https://doi.org/10.1016/j.beth.2025.01.004>
+
+# Code and data visualizations
+
+*These are just built-in examples from RMarkdown.*
+
+```{r cars, echo=TRUE}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=TRUE}
+plot(pressure)
+```
+
+# FAQ about joining the lab
+
+And so forth.
